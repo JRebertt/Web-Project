@@ -1,0 +1,38 @@
+/*Reset All Config*/
+
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: calibri;
+
+}
+
+/*Menu*/
+
+ul{
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.main{
+    width: 100%;
+    height: 180vh;
+    background-image: url();
+    background-size: cover;
+    background-position: top left;
+
+}
+
+.logo img{
+    
+}
